@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculations</string>
+    <string name="TextView1">Unit price</string>
+    <string name="editText1"> </string>
+    <string name="editText1hint">Enter number</string>
+    <string name="TextView2">Number of units</string>
+    <string name="RadioButton1">Unit price excl. VAT</string>
+    <string name="RadioButton2">Unit price incl. VAT</string>
+    <string name="Button1Clear">Clear</string>
+    <string name="Button2OK">OK</string>
+    <string name="TextView3">Amount excl. VAT</string>
+    <string name="TextView4">VAT</string>
+    <string name="TextView5">Amount incl. VAT</string>
+    <string name="EmptyHint"> </string>
+</resources>
